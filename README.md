@@ -6,7 +6,7 @@ Mobile-first practice-exam app for CPKC Conductor rules qualification (Alberta /
 
 ## What it does
 
-- **1,026 multiple-choice questions** built from the current CPKC rule set.
+- **1,056 multiple-choice questions** built from the current CPKC rule set.
 - **20 questions per test** (10 / 30 / 50 also available), randomised, with the answer order shuffled every time.
 - **Instant feedback with the reference.** Every answer shows the document, rule/item number and effective date so you can go straight to the source.
 - **Currency notes.** Where the new CROR or the Summary Bulletin changes older GOI / RBTE text, the question flags it — so you are never studying superseded information.
@@ -21,7 +21,7 @@ Mobile-first practice-exam app for CPKC Conductor rules qualification (Alberta /
 | CPKC Canadian Rail Operating Rules (CROR) | June 15, 2026 |
 | CPKC CROR Transition Guide | June 15, 2026 |
 | Alberta Summary Bulletin — Prairie Division | 0001 April 1, 2026 |
-| CPKC General Operating Instructions, Sections 1–12 | current to April 1, 2026 (Section 11 → June 12, 2026) |
+| CPKC General Operating Instructions, Sections 1–13 | current to April 1, 2026 (Section 11 → June 12, 2026) |
 | CPKC T&E Safety Rule Book | April 2023 |
 
 Precedence used throughout the bank:
@@ -41,7 +41,7 @@ Under CROR Rule 83(c), operating bulletins of a previous date that are not inclu
 index.html
 css/styles.css
 js/app.js
-data/questions.json   1,026 questions
+data/questions.json   1,056 questions
 .nojekyll
 ```
 
