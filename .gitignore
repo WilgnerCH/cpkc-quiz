@@ -1,0 +1,19 @@
+# Only the self-contained index.html is published to GitHub Pages.
+# Everything below is source/auxiliary and stays local (never public).
+
+# Modular source version (readable code) — do not publish alongside index.html
+index-modular.html
+css/
+js/
+data/
+
+# Build source / working folder
+Claude outputs/
+
+# Auxiliary helpers
+PUBLICAR.bat
+PROMPT-CLAUDE-CODE.md
+
+# Never publish any rules material in the public repo
+*.pdf
+*.txt
