@@ -6,7 +6,7 @@ Mobile-first practice-exam app for CPKC Conductor rules qualification (Alberta /
 
 ## Other pages
 
-- **Conductor Exam Drill** — https://wilgnerch.github.io/cpkc-quiz/exam-drill/ — 252 questions from the Part 2 Exam Review, Study Guide Quiz, Part 1 Review and the Part 2 Knowledge Checks (OCS, CTC, ABS, Interlocking), in the course-player layout.
+- **Conductor Exam Drill** — https://wilgnerch.github.io/cpkc-quiz/exam-drill/ — 212 multiple-choice questions from the Part 2 Exam Review, Study Guide Quiz and the Part 2 Knowledge Checks (OCS, CTC, ABS, Interlocking), in the course-player layout.
 
 ## What it does
 
